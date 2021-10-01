@@ -1,0 +1,379 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/8ec2a4319679620337be6a7a85d8fc90/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-paging:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/1de0d16f3629a70026ef5465d8675a34/transformed/jetified-room-paging-2.4.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/f93259b79b67709446872d44a81cb1ca/transformed/jetified-room-ktx-2.4.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/289317669665d4a2236a672f56b7e034/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/abdualselwi/.gradle/caches/transforms-3/ff7c80daec887bb7bbe68d6e5fab8df6/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/63321e7286bea5097c619258bffee4b4/transformed/navigation-ui-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/401d93a9d26bf8ce886f21eb15ac5bde/transformed/navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/abdualselwi/.gradle/caches/transforms-3/9f6d4b8528c526565679a87e69132238/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/9c27c0eb25ba400146cefb8d808ddf1b/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [org.kodein.di:kodein-di-framework-android-x:6.3.3] /Users/abdualselwi/.gradle/caches/transforms-3/1d4e847bd5c1fa1a8ca11c21ec5b4540/transformed/jetified-kodein-di-framework-android-x-6.3.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.preference:preference:1.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/1bcd2e594fd6900be719b10f6ad7d285/transformed/preference-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/c4441bc14b82f25b2e2c3fe81d706447/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/63e62212171fe38f3ba73822dcc08f4a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-rxjava2:2.3.0] /Users/abdualselwi/.gradle/caches/transforms-3/d62b339237f63cc860674289bb79eccc/transformed/room-rxjava2-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-rxjava3:2.3.0] /Users/abdualselwi/.gradle/caches/transforms-3/189326fc280ad52c76ab54ee1323916e/transformed/jetified-room-rxjava3-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-guava:2.3.0] /Users/abdualselwi/.gradle/caches/transforms-3/793e56d066442bdf24fb9ebf38c6009a/transformed/room-guava-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/afc4f0c0dbebd49c44d1be82b9c25b9b/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/bd1b9ea9d905f6b2a5a8977ac74059ee/transformed/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/938b6882fd8de342ce267faf4956cc2e/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/abdualselwi/.gradle/caches/transforms-3/91094d10e37a91f43695eafc6c9b5c6f/transformed/jetified-glide-4.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/ea1a55438e21ab29f5a78e0e8fdc829c/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [org.kodein.di:kodein-di-framework-android-core:6.3.3] /Users/abdualselwi/.gradle/caches/transforms-3/0e6f9cc639e286728aae65869df4bebf/transformed/jetified-kodein-di-framework-android-core-6.3.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/0e8fc05256a089e893b281a48f1027ed/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/c0d5c567d7f154a16bc86162852f3318/transformed/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/0e471d9c55c517e315df53bd46466eda/transformed/navigation-common-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/e4844f18a5a780bf8bf4d21a5aa570bb/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/03a0ce54b485bed2e03ac1c194ad6c69/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/163e5f735e934ac0b628776e6c0b1c65/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/270e367f1832b5d648fb3f2f7e593dc2/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/abdualselwi/.gradle/caches/transforms-3/b06099d511df9999a9145c042545f179/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/abdualselwi/.gradle/caches/transforms-3/80646911380ed1acbac9659536fea84a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/2309f1d4979db8d89493b71c37f8ded3/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/e79413ab02f6262376c4dcdc2eee63c0/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/8d6b6be7acc3689205f54d4f2ef8d83a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/935927dc965f996f6b4ffd2c3d338299/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/10aefcbff846c94a3a4fe713f18fb374/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/7fb053dc553d84dd4285520af168afb5/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/288b7919482b90bf68153c551a9ad2c5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/ad98342ad0b905fb443c4fbad3da0765/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/78b8e78ea5fc5b366dd7a5a263d30505/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/5c7c7a5095d3b05b4dc2cd82f04efeb1/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/fd8a221fff192c6de6bf581ed204211d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/8e41324cd3e44a66e15a0f9fc1f20883/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/830626611d9cb81a8e8dc04e892a2fd8/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/5ddb14bfabd3bd3051edc5fd8dfde4d9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/d35e9b5d937ef337e65b3b388c7362d0/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/d4fcb540f21c345b6427c3747a17ffa9/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/b9301571848921e10406a2678bb6082b/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/26e72edd6cfc5cacd593dfff80165ee1/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/44e824c519dea3f45bf00b258df663f8/transformed/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/abdualselwi/.gradle/caches/transforms-3/6fb55d2bf2ce631dfc049487cee71788/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/3ece6857bd513833a4272e31213aca37/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/7f7811081d57f08a985e27dc25b6a7ab/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/498fcd664e0eda1a9adf75b3833ec848/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/541b937308ef1a0da5b15003173a7275/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/422e58b33286fa2938dd33de8836e7dd/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/ae990dbbe19a4f5ee83abe403a4c489b/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/6d1f67ba269389b7bd1293de51ce96bb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/655866e226b2d9a444065f8cc2ef3e82/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/4c8ee302aa309d6ffdb816b729234f96/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/30d0a931fd4c410d08c976b72208746c/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/abdualselwi/.gradle/caches/transforms-3/f6f09d949ff10c6786f61471150330ee/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/d39266d04db31129b02262607a3eb1ef/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/9432c8ce1260e34c198de1aa39769006/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/571a5ef0d8a3b66050f9a58e2552daf6/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/ce3fca7545ba045a398d980ac12785a6/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/4c51f5a74a6044af39323a6b41da5b75/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/3b1c63ae19f473514b8a24eda6000a3d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/727bf754687d4745a2055ef54a6b149b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] /Users/abdualselwi/.gradle/caches/transforms-3/59c8dd8cd213ec95640c3f444df740ef/transformed/sqlite-framework-2.2.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] /Users/abdualselwi/.gradle/caches/transforms-3/fc224c023ff74314453b0e8b0c65e625/transformed/sqlite-2.2.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/2ab6b919c9dfa4c001107df43caf7c69/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/abdualselwi/.gradle/caches/transforms-3/9f6d4b8528c526565679a87e69132238/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/abdualselwi/.gradle/caches/transforms-3/9f6d4b8528c526565679a87e69132238/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/9c27c0eb25ba400146cefb8d808ddf1b/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/9c27c0eb25ba400146cefb8d808ddf1b/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/afc4f0c0dbebd49c44d1be82b9c25b9b/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/afc4f0c0dbebd49c44d1be82b9c25b9b/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/abdualselwi/.gradle/caches/transforms-3/91094d10e37a91f43695eafc6c9b5c6f/transformed/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/abdualselwi/.gradle/caches/transforms-3/91094d10e37a91f43695eafc6c9b5c6f/transformed/jetified-glide-4.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/ea1a55438e21ab29f5a78e0e8fdc829c/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/ea1a55438e21ab29f5a78e0e8fdc829c/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/03a0ce54b485bed2e03ac1c194ad6c69/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/03a0ce54b485bed2e03ac1c194ad6c69/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/163e5f735e934ac0b628776e6c0b1c65/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/163e5f735e934ac0b628776e6c0b1c65/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/270e367f1832b5d648fb3f2f7e593dc2/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/270e367f1832b5d648fb3f2f7e593dc2/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] /Users/abdualselwi/.gradle/caches/transforms-3/6fb55d2bf2ce631dfc049487cee71788/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/abdualselwi/.gradle/caches/transforms-3/6fb55d2bf2ce631dfc049487cee71788/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/abdualselwi/.gradle/caches/transforms-3/f6f09d949ff10c6786f61471150330ee/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/abdualselwi/.gradle/caches/transforms-3/f6f09d949ff10c6786f61471150330ee/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/9432c8ce1260e34c198de1aa39769006/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/9432c8ce1260e34c198de1aa39769006/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/abdualselwi/.gradle/caches/transforms-3/6fb55d2bf2ce631dfc049487cee71788/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:8:9-43
+activity#com.example.weatherapp.MainActivity
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/8ec2a4319679620337be6a7a85d8fc90/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/8ec2a4319679620337be6a7a85d8fc90/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-paging:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/1de0d16f3629a70026ef5465d8675a34/transformed/jetified-room-paging-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-paging:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/1de0d16f3629a70026ef5465d8675a34/transformed/jetified-room-paging-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/f93259b79b67709446872d44a81cb1ca/transformed/jetified-room-ktx-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/f93259b79b67709446872d44a81cb1ca/transformed/jetified-room-ktx-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/289317669665d4a2236a672f56b7e034/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/289317669665d4a2236a672f56b7e034/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/abdualselwi/.gradle/caches/transforms-3/ff7c80daec887bb7bbe68d6e5fab8df6/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/abdualselwi/.gradle/caches/transforms-3/ff7c80daec887bb7bbe68d6e5fab8df6/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/63321e7286bea5097c619258bffee4b4/transformed/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/63321e7286bea5097c619258bffee4b4/transformed/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/401d93a9d26bf8ce886f21eb15ac5bde/transformed/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/401d93a9d26bf8ce886f21eb15ac5bde/transformed/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/abdualselwi/.gradle/caches/transforms-3/9f6d4b8528c526565679a87e69132238/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/abdualselwi/.gradle/caches/transforms-3/9f6d4b8528c526565679a87e69132238/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/9c27c0eb25ba400146cefb8d808ddf1b/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/9c27c0eb25ba400146cefb8d808ddf1b/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [org.kodein.di:kodein-di-framework-android-x:6.3.3] /Users/abdualselwi/.gradle/caches/transforms-3/1d4e847bd5c1fa1a8ca11c21ec5b4540/transformed/jetified-kodein-di-framework-android-x-6.3.3/AndroidManifest.xml:5:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-x:6.3.3] /Users/abdualselwi/.gradle/caches/transforms-3/1d4e847bd5c1fa1a8ca11c21ec5b4540/transformed/jetified-kodein-di-framework-android-x-6.3.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.preference:preference:1.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/1bcd2e594fd6900be719b10f6ad7d285/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/1bcd2e594fd6900be719b10f6ad7d285/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/c4441bc14b82f25b2e2c3fe81d706447/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/c4441bc14b82f25b2e2c3fe81d706447/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/63e62212171fe38f3ba73822dcc08f4a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/63e62212171fe38f3ba73822dcc08f4a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.3.0] /Users/abdualselwi/.gradle/caches/transforms-3/d62b339237f63cc860674289bb79eccc/transformed/room-rxjava2-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava2:2.3.0] /Users/abdualselwi/.gradle/caches/transforms-3/d62b339237f63cc860674289bb79eccc/transformed/room-rxjava2-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava3:2.3.0] /Users/abdualselwi/.gradle/caches/transforms-3/189326fc280ad52c76ab54ee1323916e/transformed/jetified-room-rxjava3-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava3:2.3.0] /Users/abdualselwi/.gradle/caches/transforms-3/189326fc280ad52c76ab54ee1323916e/transformed/jetified-room-rxjava3-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-guava:2.3.0] /Users/abdualselwi/.gradle/caches/transforms-3/793e56d066442bdf24fb9ebf38c6009a/transformed/room-guava-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-guava:2.3.0] /Users/abdualselwi/.gradle/caches/transforms-3/793e56d066442bdf24fb9ebf38c6009a/transformed/room-guava-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/afc4f0c0dbebd49c44d1be82b9c25b9b/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/afc4f0c0dbebd49c44d1be82b9c25b9b/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/bd1b9ea9d905f6b2a5a8977ac74059ee/transformed/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/bd1b9ea9d905f6b2a5a8977ac74059ee/transformed/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/938b6882fd8de342ce267faf4956cc2e/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/938b6882fd8de342ce267faf4956cc2e/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/abdualselwi/.gradle/caches/transforms-3/91094d10e37a91f43695eafc6c9b5c6f/transformed/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/abdualselwi/.gradle/caches/transforms-3/91094d10e37a91f43695eafc6c9b5c6f/transformed/jetified-glide-4.8.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/ea1a55438e21ab29f5a78e0e8fdc829c/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/ea1a55438e21ab29f5a78e0e8fdc829c/transformed/jetified-play-services-location-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-core:6.3.3] /Users/abdualselwi/.gradle/caches/transforms-3/0e6f9cc639e286728aae65869df4bebf/transformed/jetified-kodein-di-framework-android-core-6.3.3/AndroidManifest.xml:5:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-core:6.3.3] /Users/abdualselwi/.gradle/caches/transforms-3/0e6f9cc639e286728aae65869df4bebf/transformed/jetified-kodein-di-framework-android-core-6.3.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/0e8fc05256a089e893b281a48f1027ed/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/0e8fc05256a089e893b281a48f1027ed/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/c0d5c567d7f154a16bc86162852f3318/transformed/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/c0d5c567d7f154a16bc86162852f3318/transformed/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/0e471d9c55c517e315df53bd46466eda/transformed/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/0e471d9c55c517e315df53bd46466eda/transformed/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/e4844f18a5a780bf8bf4d21a5aa570bb/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/e4844f18a5a780bf8bf4d21a5aa570bb/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/03a0ce54b485bed2e03ac1c194ad6c69/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/03a0ce54b485bed2e03ac1c194ad6c69/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/163e5f735e934ac0b628776e6c0b1c65/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/163e5f735e934ac0b628776e6c0b1c65/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/270e367f1832b5d648fb3f2f7e593dc2/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/270e367f1832b5d648fb3f2f7e593dc2/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/abdualselwi/.gradle/caches/transforms-3/b06099d511df9999a9145c042545f179/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/abdualselwi/.gradle/caches/transforms-3/b06099d511df9999a9145c042545f179/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/abdualselwi/.gradle/caches/transforms-3/80646911380ed1acbac9659536fea84a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/abdualselwi/.gradle/caches/transforms-3/80646911380ed1acbac9659536fea84a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/2309f1d4979db8d89493b71c37f8ded3/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/2309f1d4979db8d89493b71c37f8ded3/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/e79413ab02f6262376c4dcdc2eee63c0/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/e79413ab02f6262376c4dcdc2eee63c0/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/8d6b6be7acc3689205f54d4f2ef8d83a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/8d6b6be7acc3689205f54d4f2ef8d83a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/935927dc965f996f6b4ffd2c3d338299/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/935927dc965f996f6b4ffd2c3d338299/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/10aefcbff846c94a3a4fe713f18fb374/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/10aefcbff846c94a3a4fe713f18fb374/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/7fb053dc553d84dd4285520af168afb5/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/7fb053dc553d84dd4285520af168afb5/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/288b7919482b90bf68153c551a9ad2c5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/288b7919482b90bf68153c551a9ad2c5/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/ad98342ad0b905fb443c4fbad3da0765/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/ad98342ad0b905fb443c4fbad3da0765/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/78b8e78ea5fc5b366dd7a5a263d30505/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/78b8e78ea5fc5b366dd7a5a263d30505/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/5c7c7a5095d3b05b4dc2cd82f04efeb1/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/5c7c7a5095d3b05b4dc2cd82f04efeb1/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/fd8a221fff192c6de6bf581ed204211d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/fd8a221fff192c6de6bf581ed204211d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/8e41324cd3e44a66e15a0f9fc1f20883/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/8e41324cd3e44a66e15a0f9fc1f20883/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/830626611d9cb81a8e8dc04e892a2fd8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/830626611d9cb81a8e8dc04e892a2fd8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/5ddb14bfabd3bd3051edc5fd8dfde4d9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/5ddb14bfabd3bd3051edc5fd8dfde4d9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/d35e9b5d937ef337e65b3b388c7362d0/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/d35e9b5d937ef337e65b3b388c7362d0/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/d4fcb540f21c345b6427c3747a17ffa9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/d4fcb540f21c345b6427c3747a17ffa9/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/b9301571848921e10406a2678bb6082b/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/b9301571848921e10406a2678bb6082b/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/26e72edd6cfc5cacd593dfff80165ee1/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/26e72edd6cfc5cacd593dfff80165ee1/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/44e824c519dea3f45bf00b258df663f8/transformed/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/44e824c519dea3f45bf00b258df663f8/transformed/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/abdualselwi/.gradle/caches/transforms-3/6fb55d2bf2ce631dfc049487cee71788/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/abdualselwi/.gradle/caches/transforms-3/6fb55d2bf2ce631dfc049487cee71788/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/3ece6857bd513833a4272e31213aca37/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/3ece6857bd513833a4272e31213aca37/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/7f7811081d57f08a985e27dc25b6a7ab/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/7f7811081d57f08a985e27dc25b6a7ab/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/498fcd664e0eda1a9adf75b3833ec848/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/498fcd664e0eda1a9adf75b3833ec848/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/541b937308ef1a0da5b15003173a7275/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/541b937308ef1a0da5b15003173a7275/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/422e58b33286fa2938dd33de8836e7dd/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/422e58b33286fa2938dd33de8836e7dd/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/ae990dbbe19a4f5ee83abe403a4c489b/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/ae990dbbe19a4f5ee83abe403a4c489b/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/6d1f67ba269389b7bd1293de51ce96bb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/6d1f67ba269389b7bd1293de51ce96bb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/655866e226b2d9a444065f8cc2ef3e82/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/655866e226b2d9a444065f8cc2ef3e82/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/4c8ee302aa309d6ffdb816b729234f96/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/4c8ee302aa309d6ffdb816b729234f96/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/30d0a931fd4c410d08c976b72208746c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/30d0a931fd4c410d08c976b72208746c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/abdualselwi/.gradle/caches/transforms-3/f6f09d949ff10c6786f61471150330ee/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/abdualselwi/.gradle/caches/transforms-3/f6f09d949ff10c6786f61471150330ee/transformed/jetified-gifdecoder-4.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/d39266d04db31129b02262607a3eb1ef/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/d39266d04db31129b02262607a3eb1ef/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/9432c8ce1260e34c198de1aa39769006/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/9432c8ce1260e34c198de1aa39769006/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/571a5ef0d8a3b66050f9a58e2552daf6/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/571a5ef0d8a3b66050f9a58e2552daf6/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/ce3fca7545ba045a398d980ac12785a6/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/ce3fca7545ba045a398d980ac12785a6/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/4c51f5a74a6044af39323a6b41da5b75/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/4c51f5a74a6044af39323a6b41da5b75/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/3b1c63ae19f473514b8a24eda6000a3d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/3b1c63ae19f473514b8a24eda6000a3d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/727bf754687d4745a2055ef54a6b149b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abdualselwi/.gradle/caches/transforms-3/727bf754687d4745a2055ef54a6b149b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] /Users/abdualselwi/.gradle/caches/transforms-3/59c8dd8cd213ec95640c3f444df740ef/transformed/sqlite-framework-2.2.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] /Users/abdualselwi/.gradle/caches/transforms-3/59c8dd8cd213ec95640c3f444df740ef/transformed/sqlite-framework-2.2.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] /Users/abdualselwi/.gradle/caches/transforms-3/fc224c023ff74314453b0e8b0c65e625/transformed/sqlite-2.2.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] /Users/abdualselwi/.gradle/caches/transforms-3/fc224c023ff74314453b0e8b0c65e625/transformed/sqlite-2.2.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/2ab6b919c9dfa4c001107df43caf7c69/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/2ab6b919c9dfa4c001107df43caf7c69/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:26:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/270e367f1832b5d648fb3f2f7e593dc2/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/270e367f1832b5d648fb3f2f7e593dc2/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/270e367f1832b5d648fb3f2f7e593dc2/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

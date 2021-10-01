@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.weatherapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:5:5-79
+11-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:6:5-66
+12-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:7:5-25:19
+15        android:name="com.example.weatherapp.ForcastApplication"
+15-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:8:9-43
+16        android:allowBackup="true"
+16-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:9:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.6.0] /Users/abdualselwi/.gradle/caches/transforms-3/6fb55d2bf2ce631dfc049487cee71788/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:11:9-43
+20        android:label="@string/app_name"
+20-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme"
+24-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:15:9-40
+25        android:usesCleartextTraffic="true" >
+25-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:10:9-44
+26        <activity
+26-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:16:9-24:20
+27            android:name="com.example.weatherapp.MainActivity"
+27-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:17:13-41
+28            android:exported="true" >
+28-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:18:13-36
+29            <intent-filter>
+29-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:19:13-23:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:20:17-69
+30-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:22:17-77
+32-->/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:22:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <service
+36-->[androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:25:9-28:40
+37            android:name="androidx.room.MultiInstanceInvalidationService"
+37-->[androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:26:13-74
+38            android:directBootAware="true"
+38-->[androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:27:13-43
+39            android:exported="false" />
+39-->[androidx.room:room-runtime:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/e35aac5ce169d19da2f9504679dff0ec/transformed/room-runtime-2.4.0-alpha04/AndroidManifest.xml:28:13-37
+40
+41        <provider
+41-->[com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+42            android:name="com.squareup.picasso.PicassoProvider"
+42-->[com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+43            android:authorities="com.example.weatherapp.com.squareup.picasso"
+43-->[com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+44            android:exported="false" />
+44-->[com.squareup.picasso:picasso:2.71828] /Users/abdualselwi/.gradle/caches/transforms-3/09cb169c14e6902be3885204ed600701/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+45
+46        <activity
+46-->[com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+47            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+47-->[com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+48            android:exported="false"
+48-->[com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+49            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+49-->[com.google.android.gms:play-services-base:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/b7aef70f45a317be4995ea32173a1ef4/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+50
+51        <meta-data
+51-->[com.google.android.gms:play-services-basement:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/270e367f1832b5d648fb3f2f7e593dc2/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+52            android:name="com.google.android.gms.version"
+52-->[com.google.android.gms:play-services-basement:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/270e367f1832b5d648fb3f2f7e593dc2/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+53            android:value="@integer/google_play_services_version" />
+53-->[com.google.android.gms:play-services-basement:17.5.0] /Users/abdualselwi/.gradle/caches/transforms-3/270e367f1832b5d648fb3f2f7e593dc2/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+54
+55        <provider
+55-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+56            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+56-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+57            android:authorities="com.example.weatherapp.lifecycle-process"
+57-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+58            android:exported="false"
+58-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+59            android:multiprocess="true" />
+59-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/abdualselwi/.gradle/caches/transforms-3/edd06083f6b50795f51d1bfda36f93be/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+60    </application>
+61
+62</manifest>

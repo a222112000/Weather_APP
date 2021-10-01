@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_settings_foreground.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_settings_foreground.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_launcher_week_background.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_launcher_week_background.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_today.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-anydpi-v26/ic_today.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_calendar.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxhdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_settings.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_today.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-mdpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_settings_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-mdpi/ic_settings_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_week.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-hdpi/ic_launcher_week.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_settings_background.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_settings_background.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_launcher_week_foreground.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_launcher_week_foreground.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_today_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-hdpi/ic_today_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_settings_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-hdpi/ic_settings_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_calendar.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_today.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_today.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_week_round.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_week_round.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_calendar_foreground.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_calendar_foreground.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_today.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxhdpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/menu_bottom_nav.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_week_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xhdpi/ic_launcher_week_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_today_round.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-anydpi-v26/ic_today_round.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_calendar.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xhdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_today_foreground.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_today_foreground.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_settings_round.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-anydpi-v26/ic_settings_round.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_settings.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_week_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-mdpi/ic_launcher_week_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_calendar.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-hdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_calendar_round.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-anydpi-v26/ic_calendar_round.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_calendar_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-mdpi/ic_calendar_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_week.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxhdpi/ic_launcher_week.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_settings.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/layout_current_weather_fragment.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/layout/current_weather_fragment.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_settings.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-anydpi-v26/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/layout_future_detail_weather_fragment.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/layout/future_detail_weather_fragment.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_settings.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_week.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_week.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_settings.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-mdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_week_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_week_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_today.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-hdpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_today.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xhdpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_calendar_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-hdpi/ic_calendar_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_week_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxhdpi/ic_launcher_week_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_week.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-mdpi/ic_launcher_week.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_calendar.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-anydpi-v26/ic_calendar.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_calendar_background.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_calendar_background.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/layout_future_weather_fragment.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/layout/future_weather_fragment.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_calendar.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-mdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_calendar_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xhdpi/ic_calendar_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_week_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-hdpi/ic_launcher_week_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_settings_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xhdpi/ic_settings_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_calendar.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxxhdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_week.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xhdpi/ic_launcher_week.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_today.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxxhdpi/ic_today.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_weather_sunny.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_weather_sunny.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_calendar_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxxhdpi/ic_calendar_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_settings.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-hdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_today_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxxhdpi/ic_today_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_calendar_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxhdpi/ic_calendar_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_week.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_week.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_settings_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxhdpi/ic_settings_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_settings_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxxhdpi/ic_settings_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/drawable_ic_today_background.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/drawable/ic_today_background.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_today_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-mdpi/ic_today_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_today_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xhdpi/ic_today_round.png"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/xml_preferences.xml.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_today_round.png.flat",
+        "source": "/Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/res/mipmap-xxhdpi/ic_today_round.png"
+    }
+]
