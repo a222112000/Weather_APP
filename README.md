@@ -18,4 +18,15 @@
 </table>
 
 # Weather_App
-# Weather_APP
+# I Used all the followings:<br>
+# MVVM
+# Retrofit
+# Preference
+# Repository
+# Room Database
+# DAO
+# Entities
+# Fragment
+# Navigation
+# OKHttp
+# API URL Weather Data
