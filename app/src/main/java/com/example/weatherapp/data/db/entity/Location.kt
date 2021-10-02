@@ -28,7 +28,11 @@ data class Location(
     @SerializedName("region")
     val region: String?=null,
     @SerializedName("localtime_epoch")
-    val localtime_epoch: Long?=null
+    val localtime_epoch: Long?=null,
+    @SerializedName("lat")
+    val lat: Double?=null,
+    @SerializedName("lon")
+    val lon: Double?=null
 
 
 ){

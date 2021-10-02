@@ -16,7 +16,7 @@ interface UnitSpecialCurrentWeather {
     val currentWind_speed: String
     val currentFeelslike: Int
     val currentVisibility: Int
-
+    val currentWeather_descriptions: List<String>
     val locationCountry: String
 
     val locationName: String
@@ -28,8 +28,11 @@ interface UnitSpecialCurrentWeather {
     val locationTimezone_id: String
 
     val locationLocaltime_epoch: Long
+    val locationLat: Double
+    val locationLon: Double
 
     val requestLanguage:String
     val zoneTime: ZonedDateTime
+
 
 }

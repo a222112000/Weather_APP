@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/abdualselwi/.gradle/caches/transforms-3/8ec2a4319679620337be6a7a85d8fc90/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.room:room-paging:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/1de0d16f3629a70026ef5465d8675a34/transformed/jetified-room-paging-2.4.0-alpha04/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.room:room-ktx:2.4.0-alpha04] /Users/abdualselwi/.gradle/caches/transforms-3/f93259b79b67709446872d44a81cb1ca/transformed/jetified-room-ktx-2.4.0-alpha04/AndroidManifest.xml:17:1-24:12
@@ -80,33 +80,37 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abdualselwi/.gradl
 MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha02] /Users/abdualselwi/.gradle/caches/transforms-3/59c8dd8cd213ec95640c3f444df740ef/transformed/sqlite-framework-2.2.0-alpha02/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite:2.2.0-alpha02] /Users/abdualselwi/.gradle/caches/transforms-3/fc224c023ff74314453b0e8b0c65e625/transformed/sqlite-2.2.0-alpha02/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abdualselwi/.gradle/caches/transforms-3/2ab6b919c9dfa4c001107df43caf7c69/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:3:5-37
 		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:5:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:5:5-79
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:5:22-76
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:6:5-66
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:7:22-64
 application
-ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:7:5-25:19
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:8:5-26:19
 MERGED from [com.google.android.material:material:1.4.0] /Users/abdualselwi/.gradle/caches/transforms-3/9f6d4b8528c526565679a87e69132238/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /Users/abdualselwi/.gradle/caches/transforms-3/9f6d4b8528c526565679a87e69132238/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/abdualselwi/.gradle/caches/transforms-3/9c27c0eb25ba400146cefb8d808ddf1b/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
@@ -140,37 +144,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abdu
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /Users/abdualselwi/.gradle/caches/transforms-3/6fb55d2bf2ce631dfc049487cee71788/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:12:9-41
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:13:9-54
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:11:9-43
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:16:9-40
 	android:usesCleartextTraffic
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:10:9-44
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:11:9-44
 	android:name
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:9:9-43
 activity#com.example.weatherapp.MainActivity
-ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:16:9-24:20
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:17:9-25:20
 	android:exported
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:18:13-36
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:19:13-36
 	android:name
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:17:13-41
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:18:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:19:13-23:29
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/abdualselwi/AndroidStudioProjects/WeatherApp2/app/src/main/AndroidManifest.xml

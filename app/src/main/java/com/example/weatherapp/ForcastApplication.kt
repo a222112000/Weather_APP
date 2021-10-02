@@ -1,6 +1,8 @@
 package com.example.weatherapp
 
+import android.app.Activity
 import android.app.Application
+import android.content.Context
 import androidx.preference.PreferenceManager
 import com.example.weatherapp.data.ConnectivityIntercepter
 import com.example.weatherapp.data.ConnectivityIntercepterImpl
@@ -17,6 +19,8 @@ import com.example.weatherapp.data.repository.ForcastRepository
 import com.example.weatherapp.data.repository.ForcastRepositoryImpl
 import com.example.weatherapp.weather.current.CurrentWeatherFragment
 import com.example.weatherapp.weather.current.CurrentWeatherViewModelFactory
+import com.google.android.gms.location.FusedLocationProviderClient
+import com.google.android.gms.location.LocationServices
 import org.kodein.di.Kodein
 import org.kodein.di.KodeinAware
 import org.kodein.di.android.x.androidXModule
@@ -35,10 +39,12 @@ class ForcastApplication : Application(), KodeinAware {
         bind<WeatherNetworkDataSource>() with singleton { WeatherNetworkDataSourceImpl(instance()) }
         bind<ForcastRepository>() with singleton { ForcastRepositoryImpl(instance(),instance(),instance()) }
         bind() from singleton {ApiService(instance())}
+        //bind() from provider { LocationServices.getFusedLocationProviderClient(instance()) }
+        bind<LocationProvider>() with singleton { LocationProviderImpl(instance(),instance()) }
         bind<UnitProvider>() with singleton { UnitProviderImpl(instance()) }
         bind() from provider { CurrentWeatherViewModelFactory(instance(),instance()) }
-        bind<LocationProvider>() with singleton { LocationProviderImpl() }
 
+        bind() from provider { LocationServices.getFusedLocationProviderClient(instance<Context>()) }
 
     }
 

@@ -11,7 +11,7 @@ import com.example.weatherapp.data.db.entity.Location
 import com.example.weatherapp.data.db.entity.WeatherApi
 
 
-@Database(entities = [WeatherApi::class],version = 3,exportSchema = true)
+@Database(entities = [WeatherApi::class],version = 4,exportSchema = true)
 @TypeConverters(StringListConverter::class)
 abstract class ForcastDatabase: RoomDatabase() {
     abstract fun currentWeatherDao(): CurrentWeatherDAO

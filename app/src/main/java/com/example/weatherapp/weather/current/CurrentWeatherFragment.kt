@@ -101,7 +101,7 @@ class CurrentWeatherFragment : ScopedFragment(), KodeinAware {
 
             updateDateToday(it.locationRegion+" "+it.locationName)
             updateTemp(it.currentTemperature,it.currentFeelslike)
-            updateCondition(it.currentObservationTime)
+            updateCondition(it.currentWeather_descriptions[0].toString())
             updatePrecipitation(it.currentPrecip)
             updateWind(it.currentWind_dir,it.currentWind_speed)
             updateVisibility(it.currentVisibility)
