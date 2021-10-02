@@ -26,9 +26,12 @@ data class Current(
     @SerializedName("feelslike")
     val feelslike: Int?=null,
     @SerializedName("visibility")
-    val visibility: Int?=null
+    val visibility: Int?=null,
+    @SerializedName("weather_descriptions")
+    val weather_descriptions: List<String>?=null
+
 
 
     ){
-    constructor(): this( null, null,null,null,null,null,null)
+    constructor(): this( null, null,null,null,null,null,null,null)
 }

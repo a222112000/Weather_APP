@@ -30,6 +30,8 @@ data class ImperialCurrentWeather(
     override val currentFeelslike: Int,
     @ColumnInfo(name = "current_visibility")
     override val currentVisibility: Int,
+    @ColumnInfo(name = "current_weather_descriptions")
+    override val currentWeather_descriptions: List<String>,
 
     @ColumnInfo(name = "location_country")
     override val locationCountry: String,
@@ -43,8 +45,14 @@ data class ImperialCurrentWeather(
     override val locationTimezone_id: String,
     @ColumnInfo(name = "location_localtime_epoch")
     override val locationLocaltime_epoch: Long,
+    @ColumnInfo(name = "location_lat")
+    override val locationLat: Double,
+    @ColumnInfo(name = "location_lon")
+    override val locationLon: Double,
+
     @ColumnInfo(name = "request_language")
     override val requestLanguage:String
+
 
 
 ): UnitSpecialCurrentWeather {

@@ -36,12 +36,12 @@ public final class ForcastDatabase_Impl extends ForcastDatabase {
 
   @Override
   protected SupportSQLiteOpenHelper createOpenHelper(DatabaseConfiguration configuration) {
-    final SupportSQLiteOpenHelper.Callback _openCallback = new RoomOpenHelper(configuration, new RoomOpenHelper.Delegate(3) {
+    final SupportSQLiteOpenHelper.Callback _openCallback = new RoomOpenHelper(configuration, new RoomOpenHelper.Delegate(4) {
       @Override
       public void createAllTables(SupportSQLiteDatabase _db) {
-        _db.execSQL("CREATE TABLE IF NOT EXISTS `current_weather` (`id` INTEGER NOT NULL, `current_temperature` INTEGER, `current_weather_icons` TEXT, `current_observation_time` TEXT, `current_precip` REAL, `current_cloudcover` INTEGER, `current_wind_dir` TEXT, `current_wind_speed` TEXT, `current_feelslike` INTEGER, `current_visibility` INTEGER, `location_country` TEXT, `location_name` TEXT, `location_localtime` TEXT, `location_timezone_id` TEXT, `location_region` TEXT, `location_localtime_epoch` INTEGER, `request_language` TEXT, `request_query` TEXT, PRIMARY KEY(`id`))");
+        _db.execSQL("CREATE TABLE IF NOT EXISTS `current_weather` (`id` INTEGER NOT NULL, `current_temperature` INTEGER, `current_weather_icons` TEXT, `current_observation_time` TEXT, `current_precip` REAL, `current_cloudcover` INTEGER, `current_wind_dir` TEXT, `current_wind_speed` TEXT, `current_feelslike` INTEGER, `current_visibility` INTEGER, `current_weather_descriptions` TEXT, `location_country` TEXT, `location_name` TEXT, `location_localtime` TEXT, `location_timezone_id` TEXT, `location_region` TEXT, `location_localtime_epoch` INTEGER, `location_lat` REAL, `location_lon` REAL, `request_language` TEXT, `request_query` TEXT, PRIMARY KEY(`id`))");
         _db.execSQL("CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)");
-        _db.execSQL("INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, 'da76ec8132652a6a575db32d46693f1f')");
+        _db.execSQL("INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '45c66081a710a65c10fa8a4ae045559d')");
       }
 
       @Override
@@ -85,7 +85,7 @@ public final class ForcastDatabase_Impl extends ForcastDatabase {
 
       @Override
       protected RoomOpenHelper.ValidationResult onValidateSchema(SupportSQLiteDatabase _db) {
-        final HashMap<String, TableInfo.Column> _columnsCurrentWeather = new HashMap<String, TableInfo.Column>(18);
+        final HashMap<String, TableInfo.Column> _columnsCurrentWeather = new HashMap<String, TableInfo.Column>(21);
         _columnsCurrentWeather.put("id", new TableInfo.Column("id", "INTEGER", true, 1, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("current_temperature", new TableInfo.Column("current_temperature", "INTEGER", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("current_weather_icons", new TableInfo.Column("current_weather_icons", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
@@ -96,12 +96,15 @@ public final class ForcastDatabase_Impl extends ForcastDatabase {
         _columnsCurrentWeather.put("current_wind_speed", new TableInfo.Column("current_wind_speed", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("current_feelslike", new TableInfo.Column("current_feelslike", "INTEGER", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("current_visibility", new TableInfo.Column("current_visibility", "INTEGER", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
+        _columnsCurrentWeather.put("current_weather_descriptions", new TableInfo.Column("current_weather_descriptions", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("location_country", new TableInfo.Column("location_country", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("location_name", new TableInfo.Column("location_name", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("location_localtime", new TableInfo.Column("location_localtime", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("location_timezone_id", new TableInfo.Column("location_timezone_id", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("location_region", new TableInfo.Column("location_region", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("location_localtime_epoch", new TableInfo.Column("location_localtime_epoch", "INTEGER", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
+        _columnsCurrentWeather.put("location_lat", new TableInfo.Column("location_lat", "REAL", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
+        _columnsCurrentWeather.put("location_lon", new TableInfo.Column("location_lon", "REAL", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("request_language", new TableInfo.Column("request_language", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         _columnsCurrentWeather.put("request_query", new TableInfo.Column("request_query", "TEXT", false, 0, null, TableInfo.CREATED_FROM_ENTITY));
         final HashSet<TableInfo.ForeignKey> _foreignKeysCurrentWeather = new HashSet<TableInfo.ForeignKey>(0);
@@ -115,7 +118,7 @@ public final class ForcastDatabase_Impl extends ForcastDatabase {
         }
         return new RoomOpenHelper.ValidationResult(true, null);
       }
-    }, "da76ec8132652a6a575db32d46693f1f", "1cb3299daa0c05540d96fab40f392f14");
+    }, "45c66081a710a65c10fa8a4ae045559d", "429d698c713dcd33c821a82f1745db72");
     final SupportSQLiteOpenHelper.Configuration _sqliteConfig = SupportSQLiteOpenHelper.Configuration.builder(configuration.context)
         .name(configuration.name)
         .callback(_openCallback)
